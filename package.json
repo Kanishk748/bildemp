@@ -1,0 +1,24 @@
+{
+  "name": "bildemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "fastify-plugin": "^3.0.0",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dannybrown2710:Kanishk748/bildemp.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
